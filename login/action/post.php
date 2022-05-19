@@ -65,6 +65,4 @@ if ($success) {
 	exit();
 }
 header("Location: index.php");
-© 2022 GitHub, Inc.
-Terms
-Privacy
+
