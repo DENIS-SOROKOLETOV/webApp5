@@ -1,9 +1,9 @@
 <div class='form__footer'>
 	<p class='form__p'>
-		У вас уже есть аккаунт?
+		Зарегистрируйтесь!
 	</p>
 	<p class='form__p'>
-		Вы можете <a href='login.php' class='form__a'>войти</a>!
+		<a href='login.php' class='form__a'>ВОЙТИ</a>
 	</p>
 </div>
 </div>
